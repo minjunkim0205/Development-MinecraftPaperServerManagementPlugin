@@ -1,0 +1,4 @@
+name: MinecraftServerManagementPlugin
+main: org.plugin.CorePlugin
+version: 0.0.1-SNAPSHOT
+api-version: '1.21'
